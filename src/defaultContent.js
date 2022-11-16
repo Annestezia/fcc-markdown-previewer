@@ -38,7 +38,7 @@ is a code block
 and  on another line yep</pre>
 And an _image_ , just like a _link_ but with an exclamation mark in front
 
-![img](http://personal.psu.edu/xqz5228/jpg.jpg)
+![img](https://findicons.com/files/icons/1316/futurama_vol_1/256/bender.png)
 
 >> ***W. Shakespeare***
 
