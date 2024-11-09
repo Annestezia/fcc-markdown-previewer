@@ -3,15 +3,15 @@ const defaultContent = `# Ok, heres markup example \`h1\`
 > You can see 
 - editor window (you can change text or delete completely and write your own stuff) and 
 - compiled version (you can see result there).
+
 Links
 --
 You can create a link like this
 [Google](https://google.com)
 or a re-usable thing 
-
 [Marked]: https://github.com/markedjs/marked/
 
-Now  everytime you write [marked]  in square brackets, you get the link, kinda cool huh?)
+Now  everytime you write [marked] in square brackets, you get the link, kinda cool huh?)
 
 Markdown style for   h1
 ==
@@ -57,7 +57,7 @@ Through heavy sleep on sightless eyes doth stay!
 All days are nights to see till I see thee,
 And nights bright days when dreams do show thee me.</pre><br />
 
-And  heres is [marked.js docs](https://marked.js.org/) in case you want more details.
+And here is [marked.js docs](https://marked.js.org/) in case you want more details.
 `;
 
 export default defaultContent;
