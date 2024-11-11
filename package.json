@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://annestezia.github.io/fcc-markdown-previewer/",
   "dependencies": {
-    "marked": "^4.0.12",
+    "marked": "^4.3.0",
     "npm": "^10.9.0",
     "react": "^16.14.0",
     "react-dom": "^16.14.0",
